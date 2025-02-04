@@ -1,0 +1,26 @@
+.success-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    color: #F4511E;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #F4511E;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #F4511E;
+  }
+  
